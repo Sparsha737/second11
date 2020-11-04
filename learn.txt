@@ -1,0 +1,4 @@
+git
+postman?
+JSON
+Flask(GET,POST,UPDATE,DELETE)
